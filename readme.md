@@ -11,7 +11,7 @@
   * Click on the 'Tools' menu
   * Click on 'Web Developer'
   * Click 'Developer Toolbar'
-  * In the Developer Toolbar, type `pref set devtools.webide.enabled true`, then press Enter.
+  * In the Developer Toolbar, type `pref set webide.en<TAB> true`, then press Enter.
 
 4. Open the WebIDE
   * Click on the 'Tools' menu
