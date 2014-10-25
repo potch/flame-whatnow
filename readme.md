@@ -3,23 +3,23 @@
 ## On your computer
 
 1. First, [get Firefox](https://www.mozilla.org/en-US/firefox/new/)
-  * Already have it? Awesome! Make sure it's up to date. The current version is 33.
+  * Already have it? Awesome! [Make sure it's up to date](https://support.mozilla.org/en-US/kb/update-firefox-latest-version).
 
 2. Open Firefox
 
-3. Next, enable the WebIDE:
+3. Next, enable WebIDE:
   * Click on the 'Tools' menu
   * Click on 'Web Developer'
   * Click 'Developer Toolbar'
   * In the Developer Toolbar, type `pref set devtools.webide.enabled true`, then press Enter.
 
-4. Open the WebIDE
+4. Open WebIDE
   * Click on the 'Tools' menu
   * Click on 'Web Developer'
   * Click 'WebIDE'
 
-5. Install the ADB Helper
-	* In the top right corner of the WebIDE, click 'Select Runtime'
+5. Install ADB Helper
+  * In the top right corner of the WebIDE, click 'Select Runtime'
   * Under 'Devices', select 'Install ADB Helper'
     * The process should now begin- if there are network problems let someone know and they can assist you.
 
